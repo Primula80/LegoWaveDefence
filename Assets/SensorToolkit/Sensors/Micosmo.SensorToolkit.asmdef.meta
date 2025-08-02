@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9d61b92870877a459c95c25c7d15074
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/Micosmo.SensorToolkit.asmdef
+  uploadId: 730781

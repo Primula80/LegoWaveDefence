@@ -1,0 +1,19 @@
+﻿fileFormatVersion: 2
+guid: aa0e59da74104ac795301aa622815811
+timeCreated: 1491309965
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/Editor/TriggerSensor2DEditor.cs
+  uploadId: 730781

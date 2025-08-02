@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 41c87e6b859e9e34b974aab617f155ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Examples/assets/common/Scripts/DestroyOnTouch.cs
+  uploadId: 730781

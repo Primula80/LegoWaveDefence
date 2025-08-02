@@ -1,0 +1,15 @@
+﻿fileFormatVersion: 2
+guid: 06cd7673af0444f9a4bb465de1fc27b9
+timeCreated: 1504445108
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Examples/assets/common/Materials/Ground.mat
+  uploadId: 730781

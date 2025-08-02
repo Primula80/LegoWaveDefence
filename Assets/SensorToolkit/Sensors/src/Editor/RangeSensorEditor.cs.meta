@@ -1,0 +1,19 @@
+﻿fileFormatVersion: 2
+guid: 3554b5d938da480dafdfd6872234ffe6
+timeCreated: 1489796111
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/Editor/RangeSensorEditor.cs
+  uploadId: 730781

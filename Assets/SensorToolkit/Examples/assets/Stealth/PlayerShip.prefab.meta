@@ -1,0 +1,15 @@
+﻿fileFormatVersion: 2
+guid: 5b655e2136084ae3997e1595c21fd9d2
+timeCreated: 1506080800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Examples/assets/Stealth/PlayerShip.prefab
+  uploadId: 730781

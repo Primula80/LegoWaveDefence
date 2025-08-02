@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8e2fe8f4006a994887d1622c273b12b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/SteerBehaviours/SteerVO.cs
+  uploadId: 730781

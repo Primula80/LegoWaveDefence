@@ -1,0 +1,18 @@
+﻿fileFormatVersion: 2
+guid: 4b59d8dc7c6f475dbafc42d1973b84aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/Editor/ArcSensorEditor.cs
+  uploadId: 730781

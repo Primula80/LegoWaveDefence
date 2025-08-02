@@ -1,0 +1,14 @@
+﻿fileFormatVersion: 2
+guid: c15c05f3a460414e912f2ba585841355
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Examples/assets/Terrain/Rock.prefab
+  uploadId: 730781

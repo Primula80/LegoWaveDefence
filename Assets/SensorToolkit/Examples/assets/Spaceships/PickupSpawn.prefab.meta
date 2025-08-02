@@ -1,0 +1,15 @@
+﻿fileFormatVersion: 2
+guid: dccbd6f9499e4c04b1b865dd8bea83ed
+timeCreated: 1505616941
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Examples/assets/Spaceships/PickupSpawn.prefab
+  uploadId: 730781

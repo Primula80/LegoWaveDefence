@@ -1,0 +1,18 @@
+﻿fileFormatVersion: 2
+guid: 75181701ef2c42019cec8bb59bd7128d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/SteerBehaviours/SteerInterest.cs
+  uploadId: 730781

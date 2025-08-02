@@ -1,0 +1,18 @@
+﻿fileFormatVersion: 2
+guid: 34e4a36656384a5d8e94b847a7505ad3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/Editor/LOSSensor2DEditor.cs
+  uploadId: 730781

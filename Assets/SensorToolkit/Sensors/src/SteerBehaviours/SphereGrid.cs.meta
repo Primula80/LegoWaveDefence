@@ -1,0 +1,18 @@
+﻿fileFormatVersion: 2
+guid: 717b9a92b6a849e5ae1ebdcbe5ac1ea5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205336
+  packageName: SensorToolkit 2
+  packageVersion: 2.5.15
+  assetPath: Assets/SensorToolkit/Sensors/src/SteerBehaviours/SphereGrid.cs
+  uploadId: 730781
